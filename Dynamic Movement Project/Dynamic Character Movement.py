@@ -1,5 +1,4 @@
 #==========================================================
-# CS 330-01 Programming Assignment 1
 # Dynamic Movement Newton-Euler 1 Movement Update Algorithm
 # Eric Delgado
 # 09/29/2024 
