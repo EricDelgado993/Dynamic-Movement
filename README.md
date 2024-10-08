@@ -1,5 +1,5 @@
 <b>Dynamic Character Movement</b>
-<br>This program implements and tests the dynamic movement update and three dynamic movement behaviors: Seek, Flee, and Arrive. The Newton-Euler-1 movement update algorithm is used to update the position of the character after each timestep. A trajectory text file (.txt) is generated that tracks the character's movement per timestep. </br>
+<br>This program implements and tests dynamic movement. Four characters with different movement behaviors (continue, flee, seek, and arrive) are simulated. The Newton-Euler-1 movement update algorithm is used to update the position of the character after each timestep. Each character's simulated trajectories are logged over time in a .txt file in CSV format for easy analysis and visualization.
 
 <br><b>Project Files</b></br>
   - [Dynamic Movement Program](https://github.com/EricDelgado993/Dynamic-Movement/blob/main/Dynamic%20Movement%20Project/Dynamic%20Character%20Movement.py)
