@@ -28,7 +28,7 @@ class Character:
         self.maxAcceleration = maxAcceleration  # acceleration cap used for regulating character acceleration
         self.arrivalRadius = arrivalRadius      # distance to target where character stops
         self.slowingRadius = slowingRadius      # distance to target where character slow down occurs
-        self.timeToTarget = timeToTarget 
+        self.timeToTarget = timeToTarget        # Time needed to approach the target
 
     def seek(self, source, target):
 
