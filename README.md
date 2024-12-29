@@ -7,7 +7,7 @@ This project is a great example of simulating dynamic systems and implementing s
 
 ---
 
-## **Project Files** 📂
+## 📂 **Project Files**
 - [Dynamic Movement Program](https://github.com/EricDelgado993/Dynamic-Movement/blob/main/Dynamic%20Movement%20Project/Dynamic%20Character%20Movement.py) - Implements the movement simulation and behavior algorithms.
 - [Character Movement Plot Data](https://github.com/EricDelgado993/Dynamic-Movement/blob/main/Dynamic%20Movement%20Project/Character%20Movement%20Plot%20Data.txt) - Contains trajectory logs for visualization.
 
