@@ -3,6 +3,8 @@
 ## **Overview**
 The **Dynamic Character Movement** program simulates and tests dynamic movement behaviors for characters in a 2D space. Using the Newton-Euler-1 movement update algorithm, the program calculates and updates the position of each character based on their movement behavior after every time step. The simulated trajectories are logged in a `.txt` file in CSV format, making it easy to analyze and visualize the results.
 
+This project is a great example of simulating dynamic systems and implementing steering behaviors for character movement. Perfect for games, simulations, and AI behavior modeling.
+
 ---
 
 ## 📂 **Project Files**
@@ -46,10 +48,6 @@ The **Dynamic Character Movement** program simulates and tests dynamic movement 
 2. **Simulate Dynamics**: Use the Newton-Euler-1 algorithm to compute position updates based on velocity and acceleration.
 3. **Log Data**: Record trajectory data for all characters at each time step.
 4. **Analyze Output**: Use the `results.txt` file to visualize or analyze the movement trajectories.
-
----
-
-This project is a great example of simulating dynamic systems and implementing steering behaviors for character movement. Perfect for games, simulations, and AI behavior modeling.
 
 ---
 
