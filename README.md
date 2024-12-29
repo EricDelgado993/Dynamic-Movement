@@ -17,8 +17,7 @@
   - <b>Trajectory Tracking:</b> Tracks the positions, velocities, and other parameters of all characters at each time step.
   - <b>File Output:</b> Saves trajectory data into a "results.txt" file, recording the simulation over time for further analysis.
 
-<br><b>Plot of Character Movement After 50 Seconds</b></br>
-![Character Movement Plot](https://github.com/user-attachments/assets/6280a0c9-e58f-461a-9218-e4118a9054bc)
+
 
 # Dynamic Character Movement
 
@@ -73,3 +72,7 @@ The **Dynamic Character Movement** program simulates and tests dynamic movement 
 
 This project is a great example of simulating dynamic systems and implementing steering behaviors for character movement. Perfect for games, simulations, and AI behavior modeling.
 
+---
+
+<br><b>Plot of Character Movement After 50 Seconds</b></br>
+![Character Movement Plot](https://github.com/user-attachments/assets/6280a0c9-e58f-461a-9218-e4118a9054bc)
