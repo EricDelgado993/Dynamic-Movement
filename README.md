@@ -53,4 +53,4 @@ This project is a great example of simulating dynamic systems and implementing s
 
 ## Plot of Character Movement After 50 Seconds
 ![Character Movement Plot](https://github.com/user-attachments/assets/6280a0c9-e58f-461a-9218-e4118a9054bc)
-- This plot illustrates the trajectories of characters exhibiting dynamic behaviors (Seek, Flee, Arrive, and Continue) over a 50-second simulation in 2D space."
+<br>This plot illustrates the trajectories of characters exhibiting dynamic behaviors (Seek, Flee, Arrive, and Continue) over a 50-second simulation in 2D space."
